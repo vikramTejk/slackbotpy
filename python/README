@@ -1,0 +1,12 @@
+
+
+link:
+
+ https://api.slack.com/apps/A01GQB6C86L/general?
+ 
+ 
+https://www.digitalocean.com/community/tutorials/how-to-build-a-slackbot-in-python-on-ubuntu-20-04
+
+steps:
+  // try to chanage the tokens in env.sh
+ sh env.sh
